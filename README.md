@@ -1,12 +1,12 @@
 # Excelerate Data Analysis & Predictive Modeling
 
-## 📊 Overview
+## Overview
 
 This project explores and models learner engagement with Excelerate's educational programs. It involves extensive data cleaning, exploratory data analysis (EDA), feature engineering, and building a machine learning model to predict learner status.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python  
 - Pandas & NumPy  
@@ -16,7 +16,7 @@ This project explores and models learner engagement with Excelerate's educationa
 
 ---
 
-## 🧹 Data Cleaning
+## Data Cleaning
 
 - Removed duplicates and standardized column names  
 - Normalized inconsistent gender values  
@@ -26,7 +26,7 @@ This project explores and models learner engagement with Excelerate's educationa
 
 ---
 
-## ✨ Feature Engineering
+## Feature Engineering
 
 Created meaningful features such as:
 
@@ -38,7 +38,7 @@ Created meaningful features such as:
 
 ---
 
-## 📈 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Insights derived include:
 
@@ -54,7 +54,7 @@ Visualizations include:
 
 ---
 
-## 🤖 Machine Learning
+## Machine Learning
 
 A **Gradient Boosting Classifier** was trained to predict learner status using engineered features.
 
@@ -74,7 +74,7 @@ Other evaluations:
 
 ---
 
-## 📌 Key Recommendations
+## Key Recommendations
 
 - Target high-signup days for campaigns  
 - Analyze outliers with long completion times  
@@ -83,13 +83,13 @@ Other evaluations:
 
 ---
 
-## 📍 Conclusion
+## Conclusion
 
 This project demonstrates how EDA and ML modeling can uncover actionable insights to improve learner engagement and program outcomes.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions or collaboration opportunities, please contact:
 
