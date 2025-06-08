@@ -94,5 +94,6 @@ This project demonstrates how EDA and ML modeling can uncover actionable insight
 For questions or collaboration opportunities, please contact:
 
 **Name:** Katlego Masela 
+
 **Email:** maselakatlego513@gmail.com 
 
