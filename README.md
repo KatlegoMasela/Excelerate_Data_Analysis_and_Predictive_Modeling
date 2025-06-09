@@ -1,3 +1,5 @@
+AI Data Analyst Internship 
+
 # Excelerate Data Analysis & Predictive Modeling
 
 ## Overview
