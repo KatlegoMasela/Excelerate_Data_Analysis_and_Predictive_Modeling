@@ -7,6 +7,14 @@ AI Data Analyst Internship
 This project explores and models learner engagement with Excelerate's educational programs. It involves extensive data cleaning, exploratory data analysis (EDA), feature engineering, and building a machine learning model to predict learner status.
 
 ---
+## Weekly Tasks
+
+Week 1: Data Cleaning and Feature Engineering
+Week 2: Exploratory Data Analysis (EDA) 
+Week 3: Predictive Modeling and Churn Analysis
+Week 4: Presentation
+
+---
 
 ## Technologies Used
 
